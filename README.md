@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="mouse_cortical_layer_Mbd1_heatmap.png" width="80%" />
+  <img src="mouse_cortical_layer_Pcdhg_heatmap.png" width="80%" />
 </p>
 
 ---
