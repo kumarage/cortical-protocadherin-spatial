@@ -49,26 +49,26 @@ Seurat_5.4.0, SeuratObject_5.3.0, harmony, dplyr_1.1.4, ggplot2_4.0.2, patchwork
 
 ## Main Scripts
 
-QC_&_filtering.py.py  
+QC_&_filtering.py  
 : Quality control and filtering of MERFISH data  
 
 integrate_&_get_DEG_removed_clusters.R  
 : Normalization, integration (Harmony), clustering, and UMAP generation  
 
-get_celltype_annotations.R 
+get_celltype_annotations.R  
 : Cell type marker-based annotation of clusters  
 
-get_cortical_layer_anchor_points.R 
+get_cortical_layer_anchor_points.R  
 : Manual cortical layer tracing and anchor point generation  
 
-anchor_neighborhood_cells_#Pcdh_genes_expressed.R 
-: Extraction of neighboring cells and numebr of Pcdh genes expression in neighborhood cells  
+anchor_neighborhood_cells_#Pcdh_genes_expressed.R  
+: Extraction of neighboring cells and number of Pcdh genes expressed in neighborhood cells  
 
 anchor_neighborhood_cells_get_Jaccard_index_for_Pcdh.R  
 : Binarized Pcdh gene expression similarity analysis (Jaccard index) in neighborhood cells  
 
 anchor_neighborhood_cells_Pcdh_Spearman_correlation.R  
-: Spearman correlation of Pcdh gene expression in neighborhood cells  
+: Spearman correlation of Pcdh gene expression in neighborhood cells   
 
 ---
 
