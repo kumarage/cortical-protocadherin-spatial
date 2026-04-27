@@ -1,7 +1,5 @@
-# cortical-protocadherin-spatial
-MERFISH-based spatial analysis of protocadherin gene expression in mouse cortex
 # Spatial Regulation of Clustered Gamma Protocadherins  
-### MERFISH Spatial Transcriptomics Analysis (WT vs KO Mouse Cortex)
+### MERFISH-based spatial analysis of protocadherin gene expression in mouse cortex (WT vs KO Mouse Cortex)
 
 <p align="center">
   <img src="mouse_cortical_layer_Mbd1.png" width="90%" />
