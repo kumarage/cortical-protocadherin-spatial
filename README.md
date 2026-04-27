@@ -1,4 +1,4 @@
-# Spatial Regulation of Clustered Gamma Protocadherins  
+# Spatial Regulation of Protocadherins in Mouse Cortex 
 ### MERFISH-based spatial analysis of protocadherin gene expression in mouse cortex (WT vs KO Mouse Cortex)
 
 <p align="center">
