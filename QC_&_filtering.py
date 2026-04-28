@@ -14,7 +14,7 @@ sc.settings.verbosity = 3
 sc.logging.print_header()
 
 ###################################################################################################
-# Load combined dataset 
+# Load combined dataset per slice
 adata = sc.read_h5ad('WT_KO_DG_combined.h5ad')
 print(adata)
 
