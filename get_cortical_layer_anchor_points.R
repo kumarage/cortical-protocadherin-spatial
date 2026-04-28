@@ -39,8 +39,6 @@ seurat_subset <- subset(seurat_combined,
 head(seurat_subset@meta.data)
 head(seurat_subset)
 
-#----------------------------------
-#Removed for the testing
 #--------------------------------------
 #--------------------------------------
 # isolate coordinates for selected layer
