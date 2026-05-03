@@ -33,7 +33,8 @@ These analyses were performed using:
 
 **Python environment**
 - Ubuntu 22.04.5 LTS  
-- squidpy_1.2.2  
+- squidpy_1.2.2
+- scanpy_1.10.1
 
 ---
 
