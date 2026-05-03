@@ -59,7 +59,7 @@ remotes::install_github("satijalab/seurat-wrappers@v0.3.2")
 ---
 
 ### Other tools
-- locator() (base R) for manual spatial layer annotation  
+- locator() (base R) for manual tracing along the cortical layers 
 
 ---
 
