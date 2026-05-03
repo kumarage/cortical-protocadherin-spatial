@@ -40,7 +40,19 @@ These analyses were performed using:
 
 ### Main R packages
 Seurat_5.4.0, SeuratObject_5.3.0, harmony, dplyr_1.1.4, ggplot2_4.0.2, patchwork_1.3.2, Matrix_1.7-1, FNN_1.1.4.1, SeuratWrappers_0.3.2
-
+- For installation
+```r
+install.packages("remotes")
+remotes::install_version("Seurat", version = "5.4.0")
+remotes::install_version("SeuratObject", version = "5.3.0")
+remotes::install_version("dplyr", version = "1.1.4")
+remotes::install_version("ggplot2", version = "4.0.2")
+remotes::install_version("patchwork", version = "1.3.2")
+remotes::install_version("Matrix", version = "1.7-1")
+remotes::install_version("FNN", version = "1.1.4.1")
+install.packages("harmony")
+remotes::install_github("satijalab/seurat-wrappers@v0.3.2")
+```
 ---
 
 ### Other tools
