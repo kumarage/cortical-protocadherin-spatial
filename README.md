@@ -33,8 +33,9 @@ These analyses were performed using:
 
 **Python environment**
 - Ubuntu 22.04.5 LTS  
-- For installation: conda create -n STenv python=3.10 scanpy=1.10.1 squidpy=1.2.2 numpy=1.26.4 pandas=2.2.2 scipy=1.13.0 matplotlib=3.8.4 -c conda-forge -y
-- Activate the environment: conda activate STenv
+- For installation:
+- conda create -n STenv python=3.10 scanpy=1.10.1 squidpy=1.2.2 numpy=1.26.4 pandas=2.2.2 scipy=1.13.0 matplotlib=3.8.4 -c conda-forge -y
+conda activate STenv
 
 ---
 
